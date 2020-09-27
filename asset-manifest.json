@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/prajapatimehul/prajapatimehul.github.io/static/css/main.5facb584.chunk.css",
-    "main.js": "/prajapatimehul/prajapatimehul.github.io/static/js/main.7161e373.chunk.js",
-    "main.js.map": "/prajapatimehul/prajapatimehul.github.io/static/js/main.7161e373.chunk.js.map",
-    "runtime-main.js": "/prajapatimehul/prajapatimehul.github.io/static/js/runtime-main.f5a579a7.js",
-    "runtime-main.js.map": "/prajapatimehul/prajapatimehul.github.io/static/js/runtime-main.f5a579a7.js.map",
-    "static/js/2.3ef2d018.chunk.js": "/prajapatimehul/prajapatimehul.github.io/static/js/2.3ef2d018.chunk.js",
-    "static/js/2.3ef2d018.chunk.js.map": "/prajapatimehul/prajapatimehul.github.io/static/js/2.3ef2d018.chunk.js.map",
-    "index.html": "/prajapatimehul/prajapatimehul.github.io/index.html",
-    "precache-manifest.34dbff7536a457add1c93a7eaf53a53c.js": "/prajapatimehul/prajapatimehul.github.io/precache-manifest.34dbff7536a457add1c93a7eaf53a53c.js",
-    "service-worker.js": "/prajapatimehul/prajapatimehul.github.io/service-worker.js",
-    "static/css/main.5facb584.chunk.css.map": "/prajapatimehul/prajapatimehul.github.io/static/css/main.5facb584.chunk.css.map",
-    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/prajapatimehul/prajapatimehul.github.io/static/js/2.3ef2d018.chunk.js.LICENSE.txt"
+    "main.css": "/prajapatimehul.github.io/static/css/main.5facb584.chunk.css",
+    "main.js": "/prajapatimehul.github.io/static/js/main.680b91c0.chunk.js",
+    "main.js.map": "/prajapatimehul.github.io/static/js/main.680b91c0.chunk.js.map",
+    "runtime-main.js": "/prajapatimehul.github.io/static/js/runtime-main.7ea8e7cd.js",
+    "runtime-main.js.map": "/prajapatimehul.github.io/static/js/runtime-main.7ea8e7cd.js.map",
+    "static/js/2.3ef2d018.chunk.js": "/prajapatimehul.github.io/static/js/2.3ef2d018.chunk.js",
+    "static/js/2.3ef2d018.chunk.js.map": "/prajapatimehul.github.io/static/js/2.3ef2d018.chunk.js.map",
+    "index.html": "/prajapatimehul.github.io/index.html",
+    "precache-manifest.ba89e4d2db1e102e0f9731460da1f5d2.js": "/prajapatimehul.github.io/precache-manifest.ba89e4d2db1e102e0f9731460da1f5d2.js",
+    "service-worker.js": "/prajapatimehul.github.io/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/prajapatimehul.github.io/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/prajapatimehul.github.io/static/js/2.3ef2d018.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5a579a7.js",
+    "static/js/runtime-main.7ea8e7cd.js",
     "static/js/2.3ef2d018.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.7161e373.chunk.js"
+    "static/js/main.680b91c0.chunk.js"
   ]
 }
