@@ -123,18 +123,17 @@
         "url": "https://ample.tv/"
       },
       {
+        "title": "Product availability Checker App",
+        "category": "Check if Porduct is in Stock or not and get notification if Product comes in Stock",
+        "image": "goddit.webp",
+        "url": "https://apps.apple.com/us/app/goddit/id1541366898?ign-mpt=uo%3D2"
+      },
+      {
         "title": "Fuuly School Management",
         "category": "School Management and attendance system built with React Native",
         "image": "fuuly.png",
         "url": "#"
-      },
-      {
-        "title": "Product availability Checker App",
-        "category": "Check if Porduct is in Stock or not and get notification if Product comes in Stock",
-        "image": "goddit.webp",
-        "url": "#"
       }
-
     ]
   },
   "testimonials": {
