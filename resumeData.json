@@ -71,15 +71,15 @@
     ],
     "skills": [
       {
-        "name": "React Native",
+        "name": "Node",
         "level": "100%"
       },
       {
-        "name": "Node",
+        "name": "ReactJs",
         "level": "90%"
       },
-      {
-        "name": "ReactJs",
+       {
+        "name": "Git",
         "level": "90%"
       },
       {
@@ -102,7 +102,7 @@
         "title": "MERN Stack Task Management",
         "category": "Task Control built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "taskcontrol.png",
-        "url": "https://taskcontrol.in"
+        "url": "https://taskcontrol.vercel.app"
       },
       {
         "title": "MERN Stack Court Case File",
@@ -123,12 +123,6 @@
         "url": "https://ample.tv/"
       },
       {
-        "title": "Product availability Checker App",
-        "category": "Check if Porduct is in Stock or not and get notification if Product comes in Stock",
-        "image": "goddit.webp",
-        "url": "https://apps.apple.com/us/app/goddit/id1541366898?ign-mpt=uo%3D2"
-      },
-      {
         "title": "Fuuly School Management",
         "category": "School Management and attendance system built with React Native",
         "image": "fuuly.png",
@@ -138,10 +132,6 @@
   },
   "testimonials": {
     "testimonials": [
-      {
-        "text": "Mehul was very nice to work with. He was responsive and very knowledgeable about all that was needed to make the app a reality. The project had its challenges, but he was committed to overcoming them. Great job!",
-        "user": "Client - Upwork"
-      },
       {
         "text": "Mehul did an amazing job and delivered this much faster than expected! I would definitely hire him again for any programming job. He understood the requirements immediately and started to work on it right away. I would surely recommend him for any similar type of work.",
         "user": "mayur059   - Fiverr"
